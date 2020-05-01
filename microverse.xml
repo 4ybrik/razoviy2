@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Microverse XML</title>
+    <link href="https://edition.cnn.com/services/rss"/>
+    <updated>2020-05-01</updated>
+    <author>
+        <name>Microverse</name>
+    </author>
+
+    <entry>
+        <title>Report to the 66th day of 2020</title>
+        <link href="https://micfinsystem.ru/images/userguide/12-42-otchet-o-microfinans-deyat/12-42-1.png"/>
+        <id>0A-00-27-00-00-11</id>
+        <updated>2020-05-01</updated>
+        <summary>В этот момент я очень хорошо сыграл в доту и так далее.</summary>
+      
+    </entry>
+
+    <entry>
+        <title>Report to the 79th day of 2020</title>
+        <link href="https://workaud.com/uploads/images/blog/Work_report2.jpg"/>
+        <id>0A-00-27-00-00-11</id>
+        <updated>2020-05-01</updated>
+        <summary>Сегодня я хотел сходил на улицу, но коронавирус....</summary>
+       
+    </entry>
+
+    <entry>
+        <title>Report to the 100th day of 2020</title>
+        <link href="https://forum.infostart.ru/upload/forum/upload/a24/a2472907782f17f78b1046cf14c98ab4"/>
+        <id>0A-00-27-00-00-11</id>
+        <updated>2020-05-01</updated>
+        <summary>Кажется, я умираю.......о мороженное</summary>
+        
+    </entry>
+
+    <entry>
+        <title>Report to the 101th day of 2020</title>
+        <link href="https://www.cnn.com/2020/03/27/tech/zoom-app-coronavirus/index.html"/>
+        <id>urn:uuid:5225c695-cfb8-3ebb-aaaa-80da344efa66</id>
+        <updated>2020-03-27T16:20:02Z</updated>
+        <summary>Ура! Я могу выйти купить себе колы.</summary>
+        <category term="Microverse" label="Microverse"></category>
+    </entry>
+</feed>
